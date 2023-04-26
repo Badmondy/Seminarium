@@ -1,0 +1,52 @@
+{
+    "news": [
+        {
+            "id": 1,
+            "title": "Elon Musk planerar egen AI-robot.",
+            "preamble": "Källor: Musk planerar att lansera Chat GPT-utmanare",
+            "content": "Elon Musk planerar att lansera en AI-startup som ska utmana Chat GPT-utvecklaren Open AI, uppger källor för Financial Times. För att ta in kapital ska han ha vänt sig till Teslas och Spacex investerare och flera uppges ha nappat.  – Det här är på riktigt och de är upprymda över det, säger en källa till tidningen.AI-systemet ska kunna samarbeta med Musks andra bolag, såsom Tesla, Space X och Twitter. Förra månaden undertecknade Musk ett öppet brev som varnade för AI. I slutet av februari rapporterade The Information att Tesla-grundaren ville ta fram Chat GPT-utmanare.",
+            "category": "new",
+            "picture": "https://www.hollywoodreporter.com/wp-content/uploads/2023/04/GettyImages-1459166551-e1681295166125.jpg?w=2000&h=1126&crop=1"
+        },
+        {
+            "id": 2,
+            "title": "SD kan kan mildra krav på reduktionsplikten",
+            "preamble": "",
+            "category": "local",
+            "picture": "https://images.aftonbladet-cdn.se/v2/images/8c6b6fa1-092c-484b-9197-5d83482b6734?fit=crop&format=auto&h=606&q=50&w=1158&s=986004ae4ce75075ee97468e611499c3ccf25271",
+            "content": "Sverigedemokraterna kan vara på väg att mildra sina krav kring den sänkta reduktionsplikten, rapporterar SVT Nyheter. Tidigare har partiets tolkning varit att löftet om att den svenska reduktionsplikten ska ner på ”EU:s miniminivå” innebär att noll procent biobränsle ska blandas i bensin och diesel. Men enligt SVT:s källor kan partiet nu tänka sig ”mellan noll och sex procent”. Just sex procent är den nivå som regeringen tidigare definierat som ”EU:s miniminivå”. En källa inom Liberalerna säger att L är helt emot att kravet ska landa på noll procent. Enligt SVT:s uppgifter är frågan om reduktionsplikten nu uppe på statssekreterarnivån i regeringens samordning, den högsta nivån innan partiledarna kallas in. DN rapporterade tidigare i april att regeringen var nära att lägga fram två alternativ till hur reduktionsplikten ska förändras, som båda började på tio procent."
+        },
+        {
+            "id": 3,
+            "title": "Macrons kritiserade reform godkänns – pensionsåldern i Frankrike höjs till 64 år",
+            "preamble": "",
+            "category": "world",
+            "picture": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/03/16/GettyImages-1248370467-scaled.jpg",
+            "content": "Frankrikes högsta författningsdomstol ger klartecken för stora delar av president Emmanuel Macrons kritiserade pensionsreform, som bland annat innebär att pensionsåldern höjs från 62 till 64 år. Det rapporterar flera medier. Beskedet kommer efter att kraftiga protester brutit ut i landet senaste veckorna. Ett förslag från vänstern om folkomröstning avvisas samtidigt. Enligt franska medier måste domstolen dock ta ställning till att andra förslag om folkomröstning, allra senast 3 maj. Macron väntas underteckna reformförslaget under helgen."
+        },
+        {
+            "id": 4,
+            "title": "Svenska jättarna fortsätter dra in ryska miljarder",
+            "preamble": "",
+            "picture":"https://dms-api.ntm.eu/api/v1/images/VE99/smart/width/980/height/551/as/jpeg",
+            "category": "economy",
+            "content": "Flera av familjerna Lundbergs och Wallenbergs portföljbolag har fortsatt göra miljardaffärer i Ryssland, skriver DI. Förra året ökade hygienjätten Essitys ryska intäkter med 14 procent till 3,2 miljarder, trots att man påbörjat avveckling i landet. Atlas Copco fortsätter ta beställningar på service och reservdelar i Ryssland och levererar utrustning på beställningar gjorda före den 5 mars förra året. Bolagets avknoppning Epirocs intäkter från Ryssland halverades under 2022, medan Sandviks intäkter minskade med nära två tredjedelar till 1,2 miljarder, skriver DI."
+        },
+        {
+            "id": 5,
+            "title": "The last kingdom tar sju liv – och ett par hjärnceller",
+            "preamble": "",
+            "picture": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/03/The-Last-Kingdom-Season-4-Recap.jpg",
+            "category": "culture",
+            "content": "Efter flera säsonger av dramat ”The last kingdom” avslutar Netflix nu vikingasagan med filmen ”The last kingdom: Seven kings must die”. Varietys recensent Catherine Brays beskriver serien som ”Game of thrones” men med ”mer historia och färre drakar”. Filmen lär inte locka särskilt många tittare utanför den redan existerande fanskaran, enligt henne. ”Som mest intressant är den i sin hantering av religion, sexualitet och kultur”, skriver Bray. Colliders Chase Hutchinson skriver att filmen, trots att mycket skaver, utforskar frågor om hur makt korrumperar på ett sätt som engagerar. Färre förmildrande omständigheter lyfts i New York Times recension. Kritikern Robert Daniels tycker att teman som skuld, kristendom och homofobi ekar tomma. Filmen fylls av klyschor och specialeffekterna är dåliga, enligt honom. ”Filmen tar inte bara sju kungliga liv – den snor ett par hjärnceller också. Läs recensionerna i länkarna nedan."
+        },
+        {
+            "id": 6,
+            "title": "L och SD oeniga om plastpåsarna: ”Hon är inte del av förhandlingarna”",
+            "preamble": "",
+            "picture":"https://www.gp.se/image/policy:1.97013134:1681471486/JUymztkl3DCVd2NOd-EE5a-cCAM-jpg.jpg?f=Wide&w=1024&$p$f$w=da928bb",
+            "category": "climate",
+            "content": "Det råder enighet mellan Tidöpartierna om att plastpåseskatten ska avskaffas, eller kraftigt reduceras. Det säger Sverigedemokraternas ekonomiskpolitiske talesperson Oscar Sjöstedt till Aftonbladet. Klimat- och miljöminister Romina Pourmokhtari (L) skrev i ett sms till DN att det är ”ett missförstånd” att Tidöpartierna skulle vara överens i frågan, något som tidningen var först att rapportera om. Att Pourmokhtari pratar om ett missförstånd tycker Sjöstedt är märkligt. – Hon är inte en del av budgetförhandlingarna, vi budgetförhandlar på finansdepartementet, säger han till Aftonbladet. Klimatministern utvecklar situationen i ett mejl till Omni. ”Jag är statsråd i Sveriges regering och det är regeringen som lägger fram budgeten. Det Oscar Sjöstedt missförstår är att frågan nu går på remiss. Att sedan avskaffa den är först en fråga för höstens budgetförhandlingar”."
+        }
+    ]
+}

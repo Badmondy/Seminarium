@@ -1,0 +1,23 @@
+
+section {
+    display: flex;
+    flex-direction: column;
+}
+
+
+section form{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height:100vh;
+}
+
+section button > a {
+    text-decoration: none;
+    color:black;
+}
+
+section button{
+    margin-top:1rem;
+}

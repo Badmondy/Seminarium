@@ -1,0 +1,25 @@
+
+nav {
+
+    position: sticky;
+    top: 0.3rem;
+    z-index: 1;
+    font-size:0.9rem;
+    justify-content: center;
+    padding-bottom:2rem;
+}
+
+nav ul {
+    display: flex;
+    list-style-type: none;
+    gap: .6em;
+    flex-wrap:wrap;
+    background-color: white;
+    justify-content: center;
+}
+
+nav a {
+    text-decoration: none;
+    padding:auto 1rem;
+    color:black;
+}

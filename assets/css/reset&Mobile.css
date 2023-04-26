@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;1,200&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+html {
+    font-size: calc(15px + 0.390625vw);
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+@media only screen and (min-width: 1300px){
+
+
+
+    article{
+        width:30%;
+        font-size:0.8rem;
+        text-align: left;
+
+    }
+
+    article img{
+        height:500px;
+    }
+}
